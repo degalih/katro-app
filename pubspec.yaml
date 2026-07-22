@@ -17,7 +17,7 @@ dependencies:
   provider: ^6.0.2
   auto_animated: ^3.0.1
   flutter_expanded_tile: ^0.3.6
-  badges: ^2.0.2
+  badges: ^3.0.0
   flutter_native_splash: ^2.1.2
 
 flutter_native_splash:
