@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
   google_fonts: ^2.3.1
-  http: ^0.13.4
+  http: ^1.0.0
   provider: ^6.0.2
   auto_animated: ^3.0.1
   flutter_expanded_tile: ^0.3.6
